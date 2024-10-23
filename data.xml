@@ -1,0 +1,121 @@
+<registros>
+    <registro>
+        <id>01</id>
+        <nombre>Dante Avila Montoya</nombre>
+        <edad>30</edad>
+    </registro>
+    
+    <registro>
+        <id>02</id>
+        <nombre>Ana Carreño Plascencia</nombre>
+        <edad>25</edad>
+    </registro>
+    
+    <registro>
+        <id>03</id>
+        <nombre>Arturo Olivares Navarro</nombre>
+        <edad>28</edad>
+    </registro>
+    
+    <registro>
+        <id>04</id>
+        <nombre>Ana Torres Villagrana</nombre>
+        <edad>22</edad>
+    </registro>
+    
+    <registro>
+        <id>05</id>
+        <nombre>David Ibarra Arizaga</nombre>
+        <edad>35</edad>
+    </registro>
+    
+    <registro>
+        <id>06</id>
+        <nombre>Anette Linares Valdivia</nombre>
+        <edad>28</edad>
+    </registro>
+    
+    <registro>
+        <id>07</id>
+        <nombre>Rubén Mariscal Pacheco</nombre>
+        <edad>30</edad>
+    </registro>
+    
+    <registro>
+        <id>08</id>
+        <nombre>Ángel Montes Contreras</nombre>
+        <edad>29</edad>
+    </registro>
+        
+    <registro>
+        <id>09</id>
+        <nombre>Daniel González Loera</nombre>
+        <edad>28</edad>
+    </registro>
+    
+    <registro>
+        <id>10</id>
+        <nombre>Abigail Aguilar Tapia</nombre>
+        <edad>31</edad>
+    </registro>
+    
+    <registro>
+        <id>11</id>
+        <nombre>Héctor Echeverría Martínez</nombre>
+        <edad>21</edad>
+    </registro>
+
+    <registro>
+        <id>12</id>
+        <nombre>Berenice Rico Gómez</nombre>
+        <edad>26</edad>
+    </registro>
+
+    <registro>
+        <id>13</id>
+        <nombre>Fernando Sandooval Esparza</nombre>
+        <edad>21</edad>
+    </registro>
+
+    <registro>
+        <id>14</id>
+        <nombre>Diego Vera Romero</nombre>
+        <edad>24</edad>
+    </registro>
+
+    <registro>
+        <id>15</id>
+        <nombre>Michelle Bolaños Franco</nombre>
+        <edad>21</edad>
+    </registro>
+
+    <registro>
+        <id>16</id>
+        <nombre>Sofía Juárez Castillo</nombre>
+        <edad>23</edad>
+    </registro>
+
+    <registro>
+        <id>17</id>
+        <nombre>Aldo Reyez Orozco</nombre>
+        <edad>34</edad>
+    </registro>
+
+    <registro>
+        <id>18</id>
+        <nombre>Estefanía Prudencio Meza</nombre>
+        <edad>31</edad>
+    </registro>
+
+    <registro>
+        <id>19</id>
+        <nombre>Esther Robledo Velasco</nombre>
+        <edad>28</edad>
+    </registro>
+
+    <registro>
+        <id>20</id>
+        <nombre>Germán Padilla Arellano</nombre>
+        <edad>26</edad>
+    </registro>
+</registros>
